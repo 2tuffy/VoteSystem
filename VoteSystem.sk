@@ -1,0 +1,20 @@
+#Thank you for download!!
+
+#===================================
+#VOTE by Stuffy
+#===================================
+
+#replace <link:HERE> (HERE message with your link) Ex: <link:https//:yourlinkhere>
+
+command /vote:
+	trigger:
+		send "&3▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇"
+		send " "
+		send "         &b&lServer&f&lName&7 (VoteSystem)"
+		send " "
+		send " &7&l➜ &r<link:HERE> &b&lVOTE 1 &7-&f Click"
+		send " &7&l➜ &r<link:HERE> &b&lVOTE 2 &7-&f Click"
+		send " &7&l➜ &r<link:HERE> &b&lVOTE 3 &7-&f Click"
+		send " "
+		send "&3▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇"
+
